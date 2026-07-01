@@ -47,7 +47,7 @@ Our vision is to transform traditional banking into a proactive, intelligent, an
 > *This isn't another banking app. This is what banking should feel like.*
 
 <p align="center">
-  <img src="https://1drv.ms/i/c/9946626291dfb995/IQAL3BNedNjuTYVekdUnZiK_ARJ4jKXBWoXWPI2gM7MPgdk?e=htU0JL" alt="Astra Product Preview" width="900"/>
+  <img src="assets/images/astra-preview.png" alt="Astra Product Preview" width="900"/>
 </p>
 
 ---
