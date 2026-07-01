@@ -42,38 +42,69 @@ Our vision is to transform traditional banking into a proactive, intelligent, an
 
 ---
 
-# 💡 What is Astra?
+# 📱 A Day with Astra
 
-Astra is the intelligence behind SBI FinTwin.
+> *This isn't another banking app. This is what banking should feel like.*
 
-It isn't just another AI chatbot.
+<p align="center">
+  <img src="(https://1drv.ms/i/c/9946626291dfb995/IQAL3BNedNjuTYVekdUnZiK_ARJ4jKXBWoXWPI2gM7MPgdk?e=htU0JL)" alt="Astra Product Preview" width="900"/>
+</p>
 
-It isn't just another financial assistant.
+---
 
-Astra is your Financial Twin.
+Imagine waking up every morning knowing someone has already looked after your finances.
 
-A living digital representation of your financial life that continuously understands:
+Someone who has:
 
-- Income
-- Expenses
-- Savings
-- Investments
-- Financial Goals
-- Loans & EMIs
-- Spending Patterns
-- Risk Profile
-- Life Events
+- Analysed the latest interest rates
+- Compared investment opportunities
+- Tracked your expenses
+- Monitored your financial goals
+- Watched changing market conditions
+- Prepared upcoming EMI reminders
+- Updated your financial roadmap
+- Identified new opportunities to help you save more
 
-Along with continuously monitoring:
+That someone is **Astra**.
 
-- Loan Interest Rates
-- FD Interest Rates
+Astra works continuously in the background so you don't have to.
+
+---
+
+# ✨ Meet Astra
+
+Astra isn't another chatbot.
+
+Astra isn't another expense tracker.
+
+Astra isn't another AI assistant.
+
+## **Astra is your Financial Twin.**
+
+A living digital representation of your financial life.
+
+It understands:
+
+- 💰 Income
+- 💳 Expenses
+- 📈 Investments
+- 🏦 Loans
+- 🎯 Financial Goals
+- 📊 Spending Behaviour
+- 📅 EMIs
+- 🏠 Life Aspirations
+- ⚠️ Risk Profile
+
+While continuously monitoring:
+
+- Interest Rates
+- FD Rates
 - Inflation
 - Government Schemes
-- Market Trends
 - Investment Opportunities
+- Market Trends
 
-Astra proactively provides personalized financial recommendations that evolve as your life changes.
+Astra proactively recommends the right financial decision at the right time—always personalized, always transparent.
 
 ---
 
